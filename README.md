@@ -1,6 +1,3 @@
-# The github repo link of the FFSD project
-https://github.com/faisal-kn/fsd-project
-
 # Running the code
 
 
