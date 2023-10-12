@@ -1,9 +1,4 @@
-# The github repo link of the FFSD project
-https://github.com/faisal-kn/fsd-project
-
 # Running the code
-
-
 Extract the zip
 Open the terminal
 Make sure that nodemon is installed on your computer if not run: npm i -g nodemon
